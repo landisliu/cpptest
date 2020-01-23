@@ -1,0 +1,43 @@
+﻿生成启动时间为 2020/1/19 15:45:58。
+     1>项目“E:\Team Building\测试工程\C++\test\sample\sample.vcxproj”在节点 2 上(rebuild 个目标)。
+     1>_PrepareForClean:
+         正在删除文件“Debug\sample.lastbuildstate”。
+       InitializeBuildStatus:
+         正在对“Debug\sample.unsuccessfulbuild”执行 Touch 任务。
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D _WINDLL /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt AssemblyInfo.cpp Sample.cpp
+         {{xgTaskID=00000006}}
+         AssemblyInfo.cpp
+     1>e:\team building\测试工程\c++\test\sample\assemblyinfo.cpp(1): error C2871: “System”: 具有该名称的命名空间不存在
+     1>e:\team building\测试工程\c++\test\sample\assemblyinfo.cpp(2): error C2653: “System”: 不是类或命名空间名称
+     1>e:\team building\测试工程\c++\test\sample\assemblyinfo.cpp(2): error C2871: “Reflection”: 具有该名称的命名空间不存在
+     1>e:\team building\测试工程\c++\test\sample\assemblyinfo.cpp(3): error C2653: “System”: 不是类或命名空间名称
+     1>e:\team building\测试工程\c++\test\sample\assemblyinfo.cpp(3): error C2871: “CompilerServices”: 具有该名称的命名空间不存在
+     1>e:\team building\测试工程\c++\test\sample\assemblyinfo.cpp(4): error C2653: “System”: 不是类或命名空间名称
+     1>e:\team building\测试工程\c++\test\sample\assemblyinfo.cpp(4): error C2871: “InteropServices”: 具有该名称的命名空间不存在
+     1>e:\team building\测试工程\c++\test\sample\assemblyinfo.cpp(5): error C2653: “System”: 不是类或命名空间名称
+     1>e:\team building\测试工程\c++\test\sample\assemblyinfo.cpp(5): error C2871: “Permissions”: 具有该名称的命名空间不存在
+     1>e:\team building\测试工程\c++\test\sample\assemblyinfo.cpp(12): error C2337: “AssemblyTitleAttribute”: 未找到特性
+     1>e:\team building\测试工程\c++\test\sample\assemblyinfo.cpp(13): error C2337: “AssemblyDescriptionAttribute”: 未找到特性
+     1>e:\team building\测试工程\c++\test\sample\assemblyinfo.cpp(14): error C2337: “AssemblyConfigurationAttribute”: 未找到特性
+     1>e:\team building\测试工程\c++\test\sample\assemblyinfo.cpp(15): error C2337: “AssemblyCompanyAttribute”: 未找到特性
+     1>e:\team building\测试工程\c++\test\sample\assemblyinfo.cpp(16): error C2337: “AssemblyProductAttribute”: 未找到特性
+     1>e:\team building\测试工程\c++\test\sample\assemblyinfo.cpp(17): error C2337: “AssemblyCopyrightAttribute”: 未找到特性
+     1>e:\team building\测试工程\c++\test\sample\assemblyinfo.cpp(18): error C2337: “AssemblyTrademarkAttribute”: 未找到特性
+     1>e:\team building\测试工程\c++\test\sample\assemblyinfo.cpp(19): error C2337: “AssemblyCultureAttribute”: 未找到特性
+     1>e:\team building\测试工程\c++\test\sample\assemblyinfo.cpp(32): error C2337: “AssemblyVersionAttribute”: 未找到特性
+     1>e:\team building\测试工程\c++\test\sample\assemblyinfo.cpp(34): error C2337: “ComVisible”: 未找到特性
+     1>e:\team building\测试工程\c++\test\sample\assemblyinfo.cpp(36): error C2337: “CLSCompliantAttribute”: 未找到特性
+     1>e:\team building\测试工程\c++\test\sample\assemblyinfo.cpp(38): error C2337: “SecurityPermission”: 未找到特性
+     1>e:\team building\测试工程\c++\test\sample\assemblyinfo.cpp(38): error C2653: “SecurityAction”: 不是类或命名空间名称
+     1>e:\team building\测试工程\c++\test\sample\assemblyinfo.cpp(38): error C2065: “RequestMinimum”: 未声明的标识符
+                 “RequestMinimum”两侧缺少引号("")?
+         {{xgTaskID=00000000}}
+         {{xgTaskID=00000007}}
+         Sample.cpp
+         {{xgTaskID=00000000}}
+     1>已完成生成项目“E:\Team Building\测试工程\C++\test\sample\sample.vcxproj”(rebuild 个目标)的操作 - 失败。
+
+生成失败。
+
+已用时间 00:00:00.23
